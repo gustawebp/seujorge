@@ -1,0 +1,111 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=EB+Garamond:ital@0;1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=EB+Garamond:ital@0;1&display=swap');
+
+body {
+    color: white;
+    background-image: linear-gradient(to right, #8C1F1F, #591212 );
+    font-family: 'Bebas Neue', cursive;
+    text-align: center;
+    
+}
+h1:hover{
+    font-size: 37pt;
+}
+
+h1 {
+    text-align: center;
+    font-size: 35pt;
+
+}
+
+#p2{
+    text-align: center;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 25pt;
+}
+
+#p2:hover{
+    font-size: 26pt;
+
+}
+
+p {
+    font-family: 'EB Garamond', serif;
+    text-align: start;
+    font-size: 14pt;
+}
+
+.p1{
+    background-color: rgb(12, 0, 0);
+    box-shadow: 2px 2px 5px 1px rgb(2, 0, 0);
+    
+}
+
+.p1:hover{
+    font-size: 15pt;
+    background-color: rgba(0, 0, 0, 0.685);
+    text-transform: uppercase;
+    
+}
+
+ #img {
+     width: 275px;
+     box-shadow: 2px 2px 5px 1px rgb(0, 0, 0);
+     margin: auto;
+
+ }
+ 
+ #img:hover{
+    width: 285px;
+}
+
+
+
+#p3{text-align: center;
+    background-color: #59121288;
+}
+
+#p3:hover{
+    background-color: #33070788;
+}
+
+
+
+a{
+    color: white;
+    font-family: 'EB Garamond', serif;
+    
+
+    
+}
+#plats {
+    width: 75px;
+    height: 75px;
+}
+#plats2 {
+    width: 45px;
+    height: 45px;
+}
+.ho:hover{
+    background-color: rgba(0, 0, 0, 0.158);
+    border-radius: 15px;
+ 
+    
+}
+
+#foot{
+    font-size: 20px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+
+
+
+
+/*font-family: 'Bebas Neue', cursive;
+font-family: 'EB Garamond', serif;
+font-family: 'Bebas Neue', cursive;
+font-family: 'EB Garamond', serif;
+ <img id="img" src="https://images.mubicdn.net/images/cast_member/2454/cache-1742-1582824562/image-w856.jpg?size=800x" alt="">
